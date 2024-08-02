@@ -1,5 +1,4 @@
-**Davidandre2022/Davidandre2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Andre Montes! 👋
 
 ### 👨‍💻 Analista de Datos | 🚀 Data Scientist en Formación | 💡 Apasionado por la Ciencia de Datos y la Tecnología
 
@@ -27,14 +26,43 @@
 
 ## 🌟 Proyectos Destacados
 
-### [📊 Proyecto 1: Análisis de Ventas](https://github.com/tu-usuario/proyecto1)
-🔍 Realicé un análisis exhaustivo de los datos de ventas para una empresa minorista, utilizando **Python** y **SQL** para extraer, limpiar y analizar datos. Este proyecto incluyó la creación de dashboards interactivos en **Power BI** para visualizar las tendencias de ventas y ayudar en la toma de decisiones estratégicas.
+### [📊 Proyecto 1: Steam Data Analysis, API and Game Recommendation System](https://github.com/tu-usuario/proyecto1)
+🔍 Descripción breve del proyecto:
 
-### [📈 Proyecto 2: Predicción de la Demanda de Productos](https://github.com/tu-usuario/proyecto2)
-🤖 Desarrollé un modelo predictivo utilizando técnicas de **Machine Learning** para predecir la demanda de productos en diferentes tiendas. Este proyecto implicó la manipulación de grandes volúmenes de datos y su implementación en **Google Cloud Platform** para optimizar el proceso de predicción.
+Desarrollo de un sistema de recomendación de videojuegos para usuarios de la plataforma Steam, con el objetivo de proporcionar sugerencias personalizadas basadas en preferencias y comportamientos de juego, siguiendo un proceso completo desde la recolección y limpieza de datos hasta el despliegue de una API.
 
-### [💼 Proyecto 3: Dashboard de Análisis Financiero](https://github.com/tu-usuario/proyecto3)
-📊 Creé un dashboard interactivo en **Tableau** para analizar datos financieros de una compañía. Este dashboard permite a los usuarios explorar los datos de manera dinámica y obtener insights clave sobre el rendimiento financiero, facilitando así la toma de decisiones.
+Funciones en el proyecto:
+- Recolección de datos de usuarios y juegos desde la plataforma Steam.
+- Limpieza y preprocesamiento de datos para su posterior análisis.
+- Implementación de algoritmos de recomendación de videojuegos utilizando técnicas de aprendizaje automático.
+- Desarrollo de una API para exponer la funcionalidad de recomendación de videojuegos.
+- Despliegue del sistema de recomendación en un entorno de producción para su uso por parte de los usuarios de Steam.
+- Evaluación y ajuste continuo del sistema de recomendación para mejorar su precisión y relevancia.
+  
+### [📈 Proyecto 2: Analysis of Traffic Accidents](https://github.com/tu-usuario/proyecto2)
+🤖 Descripción breve del proyecto:
+
+Análisis detallado de incidentes de tráfico en la Ciudad Autónoma de Buenos Aires utilizando datos de BA Data, incluyendo procesos de ETL, Análisis Exploratorio de Datos (EDA) y visualización en Power BI.
+
+Funciones en el proyecto:
+- Extracción, Transformación y Carga (ETL) de datos de incidentes de tráfico provenientes de BA Data.
+- Realización de un Análisis Exploratorio de Datos (EDA) para comprender mejor la información y detectar patrones.
+- Creación de un panel de control en Power BI para representar visualmente la información obtenida.
+- Identificación de tendencias, áreas críticas y factores de riesgo a través del análisis de los datos de incidentes de tráfico.
+- Generación de insights y recomendaciones basadas en los hallazgos del análisis para mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires.
+
+### [💼 Proyecto 3: Google Maps y Yelp](https://github.com/tu-usuario/proyecto3)
+📊 Descripción breve del proyecto:
+
+Desarrollamos a partir de un sistema de inversión hotelera que integra análisis de datos, visualización interactiva y recomendaciones personalizadas de hoteles.
+
+Funciones en el proyecto:
+- Creación de un panel interactivo en Power BI para visualizar gráficos, tendencias, KPIs e indicadores de rendimiento en tiempo real.
+- Implementación de un sistema de recomendación de hoteles utilizando el algoritmo de similitud coseno en Python con Scikit-learn.
+- Realización de trabajos de ETL en la base de datos utilizando Python, Pandas y Numpy para generar un campo de ID.
+- Manejo de valores nulos en la base de datos durante el proceso de ETL.
+- Estandarización de formatos de fecha en la base de datos utilizando Python, Pandas y Numpy.
+- División del campo de duración en dos campos separados en la base de datos durante el proceso de ETL.
 
 ---
 
@@ -51,11 +79,10 @@
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- **Correo Electrónico:** tu.email@dominio.com
-- **Sitio Web:** [tuwebsite.com](https://tuwebsite.com)
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/andremontesdatapro2024/)
+- **Correo Electrónico:** andremontesdatapro2024@gmail.com
 
 ---
 
 💬 ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y explorar nuevas oportunidades en el mundo de la tecnología y los datos. 🚀
-
+**Davidandre2022/Davidandre2022** 
