@@ -68,13 +68,12 @@ Funciones en el proyecto:
 
 ## 💼 Experiencia
 
-- **Data Analyst | [Nombre de la Empresa] | [Fechas]**
-  - 🚀 Lideré un equipo en la creación de reportes dinámicos en **Power BI**, mejorando la visibilidad del rendimiento del negocio en un 20%.
-  - 🛠️ Automatización de procesos de análisis de datos utilizando **Python** y **SQL**, reduciendo el tiempo de análisis en un 30%.
-
-- **Intern | [Nombre de la Empresa] | [Fechas]**
-  - 🌍 Colaboré en la migración de datos a **Google Cloud Platform** y optimización de consultas en **BigQuery** para análisis de grandes volúmenes de datos.
-
+- **Data Science Teaching Assistant (TA) | [Bootcamp Soy Henry] | [ago. 2023 - nov. 2023] | Argentina · En remoto**
+  - 🚀 Coordinar un grupo de estudiantes que se unen recientemente durante toda la experiencia del Bootcamp.
+  - 💼 Guiar a los estudiantes en los primeros pasos del curso y aclarar sus dudas.
+  - 🛠️ Proporcionar asistencia en la resolución de ejercicios y fomentar el trabajo en equipo (Programación en Pareja).
+  - 📈 Sugerir ideas para mejorar los procesos del Bootcamp.
+  - 🌟 Promover la colaboración y construir comunidad entre los estudiantes.
 ---
 
 ## 📫 Contacto
