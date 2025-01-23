@@ -80,6 +80,7 @@ Funciones en el proyecto:
 
 - **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/andremontesdatapro2024/)
 - **Correo Electrónico:** andremontesdatapro2024@gmail.com
+- **Teléfono:** +51924152476
 
 ---
 
